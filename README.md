@@ -4,3 +4,5 @@ Code snippets for sysadmin
 bacula_report.sh -Bacula email job report
 
 hdfscleaner.py - Clean up staled .staging dirs from HDFS
+
+clean_docker.sh - Clean up staled docker images
